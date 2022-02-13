@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://cecilapp.github.io/the-butler/tags/banana/</id>
+  <title>The Butler - banana</title>
+  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <link href="https://cecilapp.github.io/the-butler/tags/banana/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://cecilapp.github.io/the-butler/tags/banana/" rel="alternate" type="text/html" />
+  <updated>2022-02-13T04:27:02+01:00</updated>
+  <author>
+    <name>The Butler</name>
+    <uri>https://cecilapp.github.io/the-butler/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>https://cecilapp.github.io/the-butler/blog/banana/</id>
+    <title>Banana</title>
+    <content type="html">
+      <![CDATA[<p>omg banana</p>]]>
+    </content>
+    <link href="https://cecilapp.github.io/the-butler/blog/banana/" rel="alternate" type="text/html" />
+    <published>2022-02-13T04:27:02+01:00</published>
+    <updated>2022-02-13T04:27:02+01:00</updated>
+  </entry>
+</feed>
